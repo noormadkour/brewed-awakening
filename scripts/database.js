@@ -67,6 +67,12 @@ const database = {
       email: "abiddle9@cafepress.com",
       hourlyRate: 13.0,
     },
+    {
+      id: 11,
+      name: "Monir Madkour",
+      email: "noormadkour@gmail.com",
+      hourlyRate: 50.0,
+    },
   ],
   products: [
     {
